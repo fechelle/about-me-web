@@ -4,10 +4,15 @@ body {
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
 }
-img{float:left;}
+img{float:left;
+margin-right: 1em;}
+
 h1 {
   font-style: Bold;
   color: #6A5ACD;
+  font-family:
+
+
 
 }
 
@@ -19,5 +24,10 @@ h2{
   
 }
 p{
-  margin-top:-1em;
+  display: block;
+    margin-block-start: 3em;
+    margin-block-end: 2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  font-size: 1.3em;
 }
