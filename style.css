@@ -9,4 +9,7 @@ h1 {
   font-style: Bold;
   color: #6A5ACD;
 }
-<img class{font-size 1em}
+.icon{
+  height:1.3em;
+  width: 1.3em;
+}
