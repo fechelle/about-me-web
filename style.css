@@ -5,7 +5,9 @@ body {
   margin: 2em;
 }
 img{float:left;
-margin-right: 1em;}
+margin-right: 1em;
+width:10em;
+height:10em;}
 
 h1 {
   font-style: Bold;
@@ -17,8 +19,8 @@ h1 {
 }
 
 .icon{
-  height:1.3em;
-  width: 1.3em;
+  height:1.9em;
+  width: 1.9em;
 }
 h2{
   
