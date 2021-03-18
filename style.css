@@ -50,4 +50,7 @@ p{
 div{
   text-align: right;
 }
-img{text-align: center;}
+.headshot{text-align: center;}
+.list-design{
+  align-items:left;
+}
