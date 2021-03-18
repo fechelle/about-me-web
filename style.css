@@ -10,8 +10,8 @@ width:10em;
 height:10em;}
 
 h1 {
-  font-style: Bold;
-  color: #6A5ACD;
+  font: 'pacifico';
+  color: White;
   font-family:
 
 
@@ -22,7 +22,9 @@ h1 {
   height:1.9em;
   width: 1.9em;
 }
-
+h2{
+  color:white;
+}
   
 }
 p{
@@ -60,4 +62,4 @@ text-align: center;}
   font-size: 1.3em;
   
 }
-body {background-color: coral;}
+body {background-color:#C3CDE6;}
