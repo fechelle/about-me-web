@@ -10,7 +10,7 @@ width:10em;
 height:10em;}
 
 h1 {
- font-family: Pacifico; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: Pacifico; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Pacifico; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Pacifico; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Pacifico; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;
+ font-family: Cursive; 
   color: White;
  
 
@@ -58,6 +58,7 @@ text-align: center;}
     margin-inline-start: 0px;
     margin-inline-end: 0px;
   font-size: 1.3em;
+  
   
 }
 body {background-color:#C3CDE6;}
