@@ -57,8 +57,11 @@ text-align: center;}
     margin-block-end: 2em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-  font-size: 1.3em;
-  
-  
+  font-size: 1.5em;
+  color:white;
+ 
 }
 body {background-color:#C3CDE6;}
+.row{
+  text-align: center;
+}
