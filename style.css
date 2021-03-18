@@ -22,12 +22,7 @@ h1 {
   height:1.9em;
   width: 1.9em;
 }
-h2{display: block;
-    margin-block-start: 3em;
-    margin-block-end: 2em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-  font-size: 1.3em;
+
   
 }
 p{
@@ -55,6 +50,14 @@ div{
 }
 .headshot{   border-radius: 8px;
 text-align: center;}
-.row{
+.col-sm{
   text-align: center;
+  display: block;
+    margin-block-start: 3em;
+    margin-block-end: 2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  font-size: 1.3em;
+  
 }
+body {background-color: coral;}
