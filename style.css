@@ -118,3 +118,7 @@ border:solid;}
 .dropdown:hover .dropbtn {
   background-color: #B2A3DE;
 }
+.align-items-end{
+  grid-template-columns: auto auto auto auto;
+  border:solid;
+}
