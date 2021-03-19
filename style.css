@@ -46,9 +46,9 @@ div{
   text-align: right;
 }
 .list-design{
-  align-items:right;
+   right: 0;
 }
-.headshot{   border-radius: 8px;
+.headshot{ border-radius: 8px;
 text-align: center;}
 .col-sm{
   text-align: center;
@@ -60,6 +60,7 @@ text-align: center;}
   font-size: 1.5em;
   color:white;
   border:solid;
+  border-right:1px;
  
 }
 body {background-color:#C3CDE6;}
