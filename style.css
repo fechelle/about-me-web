@@ -23,6 +23,7 @@ h1 {
 }
 h2{
   color:white;
+  text-align:center;
 }
   
 }
@@ -46,7 +47,12 @@ p{
 div{
   text-align: right;
 }
-.list-design{
+.list-design{float:right;
+  
+}
+.dropdown-toggle{
+  float:right;
+  
 }
 .headshot{ border-radius: 8px;
 text-align: center;}
@@ -66,8 +72,9 @@ text-align: center;}
 body {background-color:#C3CDE6;}
 
 .grid-container {
-  display: inline-grid;
-  grid-column-gap: 50px;
-  
-   grid-gap: 50px 100px;
-}
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+color:white;}
+h3{color:white;
+text-align:center;
+border:solid;}
