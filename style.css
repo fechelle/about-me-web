@@ -64,11 +64,27 @@ text-align: center;}
 body {background-color:#C3CDE6;}
 .col1{
   text-align: left;
+  color:white;
 }
 .col2{
   text-align: center;
+  color:white;
 }
 
 .col3{
   text-align: right;
+  color:white;
 }
+.col4{
+  text-align: right;
+  color:white;
+}
+.col-8{
+  text-align: left;
+  color:white;
+}
+.col-4{
+  text-align: right;
+  color:white;
+}
+btn btn-secondary dropdown-toggle
