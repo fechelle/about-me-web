@@ -4,10 +4,11 @@ body {
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
 }
-img{float:left;
-margin-right: 1em;
+img{float:center;
+margin-center: 100em;
 width:10em;
-height:10em;}
+height:10em;
+}
 
 h1 {
  font-family: Cursive; 
@@ -46,7 +47,6 @@ div{
   text-align: right;
 }
 .list-design{
-   right: 0;
 }
 .headshot{ border-radius: 8px;
 text-align: center;}
@@ -72,6 +72,8 @@ body {background-color:#C3CDE6;}
 .col2{
   text-align: center;
   color:white;
+   
+ 
 }
 
 .col3{
@@ -89,4 +91,5 @@ body {background-color:#C3CDE6;}
 .col-4{
   text-align: right;
   color:white;
+  
 }
