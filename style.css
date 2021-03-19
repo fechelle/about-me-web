@@ -4,10 +4,10 @@ body {
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
 }
-img{float:center;
-margin-center: 100em;
-width:10em;
-height:10em;
+img{display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20em;
 }
 
 h1 {
@@ -64,32 +64,10 @@ text-align: center;}
  
 }
 body {background-color:#C3CDE6;}
-.col1{
-  text-align: left;
-  color:white;
-  border:solid;
-}
-.col2{
-  text-align: center;
-  color:white;
-   
- 
-}
 
-.col3{
-  text-align: right;
-  color:white;
-}
-.col4{
-  text-align: right;
-  color:white;
-}
-.col-8{
-  text-align: left;
-  color:white;
-}
-.col-4{
-  text-align: right;
-  color:white;
+.grid-container {
+  display: inline-grid;
+  grid-column-gap: 50px;
   
+   grid-gap: 50px 100px;
 }
