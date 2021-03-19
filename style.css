@@ -46,7 +46,7 @@ div{
   text-align: right;
 }
 .list-design{
-  align-items: right;
+  align-items:right;
 }
 .headshot{   border-radius: 8px;
 text-align: center;}
@@ -59,12 +59,14 @@ text-align: center;}
     margin-inline-end: 0px;
   font-size: 1.5em;
   color:white;
+  border:solid;
  
 }
 body {background-color:#C3CDE6;}
 .col1{
   text-align: left;
   color:white;
+  border:solid;
 }
 .col2{
   text-align: center;
@@ -87,4 +89,3 @@ body {background-color:#C3CDE6;}
   text-align: right;
   color:white;
 }
-btn btn-secondary dropdown-toggle
