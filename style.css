@@ -83,7 +83,7 @@ float:left;
 .dropdown-toggle{
    color: white;
     width: 50px;
-    padding: 16px;
+    
     height:50px;
     font-size: 16px;
     border: none;
@@ -103,9 +103,11 @@ float:left;
 }
 
 .drop{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 40;
+   
+    width: 50px;
+  
     height:50px;
+   
+    
+    
 }
