@@ -81,5 +81,23 @@ float:left;
 }
 
 .dropdown-toggle{
-  
+   color: white;
+    width: 180px;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    font-weight: 900;
+    background: #b57edc;
+    border-radius: 0px;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 50px 50px 50px 50px;
+  position: relative;
+  z-index:2;
 }
+.dropdown-menu{
+    position: relative;
+    display: inline-block;
+}
+.drop-down
