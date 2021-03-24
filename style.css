@@ -65,21 +65,8 @@ text-align: center;}
 }
 body {background-color:#7d84bd;}
 
-.grid-container {
-  display: grid;
-  grid-template-columns: auto auto auto auto;
-color:white;}
-h3{color:white;
-text-align:center;
-border:solid;}
-.Ln{
-  width:2em;
-float:left;
-}
-.email{
-  width:2em;
-  
-}
+
+
 
 .dropbtn {
   background-color: #c3cde6;
