@@ -29,13 +29,13 @@ h2{
 }
 p{
   display: block;
-    margin-block-start: 4em;
+    margin-block-start: 2em;
     margin-block-end: 2em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
   font-size: 1.3em;
   
-
+  
 }
 
 div{
@@ -140,7 +140,7 @@ float:left;
             font-family: 'Open Sans Condensed', sans-serif;
         }
         .header {
-            background-color: skyblue;
+            background-color: #c3cde6;
             height: 100px;
             text-align: center;
             color: #4f889f;
@@ -152,22 +152,18 @@ float:left;
             min-height: 500px;
         }
         .left-col, .right-col {
-            background-color: #f4f4f4;
+            background-color: #c3cde6;
             width: 25%;
             float: left;
         }
         .center-col {
 /*          background-color: pink; */
-            width: 50%;
+            width: 25%;
             float: left;
         }
-        .footer {
-            clear: both;
-            font-family: 'Amatica SC', cursive;
-            background-color: skyblue;
-            text-align: center;
-            height: 50px;
-            padding-top: 10px;
-            box-sizing: border-box;
-        }
+        .extra-col{
+          float:right;
+          width: 25%;
+}
+            
 
